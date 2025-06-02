@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ashish Singh Rawat
 
 A **Frontend Developer** with a passion for crafting **responsive**, **interactive**, and **scalable** web applications.  
-I specialize in building sleek user interfaces with **React.js**, **Tailwind CSS**, and **JavaScript**.
+I specialize in building sleek user interfaces with **React.js**, **Tailwind CSS**,  **HTML** , **CSS** , **Bootstrap** , **Material UI** and **JavaScript**. 
 
 ---
 
