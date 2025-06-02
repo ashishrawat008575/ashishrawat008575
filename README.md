@@ -1,28 +1,35 @@
-# 👋 Hello! I'm Ashish Singh Rawat
+# 👋 Hi, I'm Ashish Singh Rawat
 
-I’m a passionate **Frontend Developer** specializing in building **responsive**, **interactive**, and **scalable** web applications.  
-With **3 months of internship experience**, I have hands-on expertise in modern technologies like **React.js**, **Tailwind CSS**, and **JavaScript**.
-
-Currently, I’m actively seeking **entry-level roles** where I can grow, contribute to impactful projects, and collaborate with driven teams.
+A **Frontend Developer** with a passion for crafting **responsive**, **interactive**, and **scalable** web applications.  
+I specialize in building sleek user interfaces with **React.js**, **Tailwind CSS**, and **JavaScript**.
 
 ---
 
-## 💻 Tech Stack
+## 💼 About Me
+
+- 🎯 Focused on performance-driven and user-friendly UI
+- ⚛️ React enthusiast with hands-on experience in modern frontend ecosystems
+- 🎨 Adept at turning designs into pixel-perfect, mobile-friendly websites
+- 🚀 Continuously learning and improving through real-world projects
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-  <img alt="React Hook Form" src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img alt="Material UI" src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" />
-  <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
-  <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img alt="React Hook Form" src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img alt="Material UI" src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </p>
 
 ---
@@ -30,46 +37,43 @@ Currently, I’m actively seeking **entry-level roles** where I can grow, contri
 ## 🚀 Featured Projects
 
 <details>
-  <summary><strong>Portfolio Website</strong></summary>
+  <summary><strong>🌐 Portfolio Website</strong></summary>
 
-  <p>A responsive and modern portfolio built using React, Tailwind, and Framer Motion.  
-  Showcases projects, skills, contact info, resume, and enhances personal branding with smooth animations and clean design.</p>  
-  <p><strong>Tech:</strong> React, Framer Motion, Tailwind CSS</p>  
-  🔗 [Live Demo](https://rawat-portfolio.vercel.app/)
+  - **Description**: A sleek personal portfolio showcasing my work, resume, and contact information.
+  - **Tech**: React, Tailwind CSS, Framer Motion
+  - 🔗 [Live Demo](https://rawat-portfolio.vercel.app/)
 </details>
 
 <details>
-  <summary><strong>Delish Licks – Gourmet Restaurant</strong></summary>
+  <summary><strong>🍽️ Delish Licks – Gourmet Restaurant</strong></summary>
 
-  <p>A vibrant restaurant website offering delicious food, shakes, and an immersive gaming experience.  
-  Built with smooth animations, responsive design, and engaging UI for seamless exploration.</p>  
-  <p><strong>Tech:</strong> React, Tailwind CSS, Framer Motion, React Scroll</p>  
-  🔗 [Live Demo](https://www.delish-licks.com/)
+  - **Description**: A vibrant restaurant site with engaging animations and immersive UI.
+  - **Tech**: React, Tailwind CSS, Framer Motion, React Scroll  
+  - 🔗 [Live Demo](https://www.delish-licks.com/)
 </details>
 
 <details>
-  <summary><strong>Bhagwati Caterer</strong></summary>
+  <summary><strong>🎉 Bhagwati Caterer</strong></summary>
 
-  <p>A responsive catering website showcasing menus, customizable event packages, and easy booking.  
-  Built with React, Redux, and Tailwind CSS to provide smooth UX and reliable service management.</p>  
-  <p><strong>Tech:</strong> JavaScript, React, Tailwind CSS, Animation</p>  
-  🔗 [Live Demo](https://bhagwaticatererltd.vercel.app/)
+  - **Description**: A catering service website offering event packages and booking options.
+  - **Tech**: React, Redux, Tailwind CSS  
+  - 🔗 [Live Demo](https://bhagwaticatererltd.vercel.app/)
 </details>
 
 <details>
-  <summary><strong>Shabrigardens Bistro Ltd</strong></summary>
+  <summary><strong>📄 Shabrigardens Bistro Ltd</strong></summary>
 
-  <p>A user-friendly platform showcasing immigration services, client consultations, and document management with secure payment integration.</p>  
-  <p><strong>Tech:</strong> Framer Motion, React, Tailwind CSS</p>  
-  🔗 [Live Demo](https://shabrigardensbistroltd.vercel.app/)
+  - **Description**: A site for immigration and consultation services with secure payment integration.
+  - **Tech**: React, Tailwind CSS, Framer Motion  
+  - 🔗 [Live Demo](https://shabrigardensbistroltd.vercel.app/)
 </details>
 
 <details>
-  <summary><strong>Jurisnexa Immigration Services</strong></summary>
+  <summary><strong>🛂 Jurisnexa Immigration Services</strong></summary>
 
-  <p>A platform for immigration services featuring client consultations, document management, and secure payments.</p>  
-  <p><strong>Tech:</strong> JavaScript, React, Tailwind CSS, Animation</p>  
-  🔗 [Live Demo](https://jurisnexaimmigrationservices.vercel.app/)
+  - **Description**: A platform offering legal and immigration assistance with document handling.
+  - **Tech**: React, Tailwind CSS, JavaScript  
+  - 🔗 [Live Demo](https://jurisnexaimmigrationservices.vercel.app/)
 </details>
 
 ---
@@ -77,33 +81,33 @@ Currently, I’m actively seeking **entry-level roles** where I can grow, contri
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishrawat008575&theme=dark&show_icons=true&count_private=true&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashishrawat008575&theme=dark&show_icons=true&count_private=true" alt="Ashish's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ashishrawat008575&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ashishrawat008575&theme=dark" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishrawat008575&theme=dark&layout=compact&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishrawat008575&theme=dark&layout=compact" alt="Top Languages" />
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 📫 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashish-rawat-a468672b2/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:ashish.email@example.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://rawat-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
-
+_Thanks for visiting my profile! Feel free to connect and collaborate._ 🤝  
