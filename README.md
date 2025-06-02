@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashishrawat008575/ashishrawat008575/main/assets/banner.png" alt="Ashish Singh Rawat" width="100%" />
-</p>
-
 # 👋 Hello! I'm Ashish Singh Rawat
 
 I’m a passionate **Frontend Developer** specializing in building **responsive**, **interactive**, and **scalable** web applications.  
@@ -110,8 +106,4 @@ Currently, I’m actively seeking **entry-level roles** where I can grow, contri
 
 ---
 
-<p align="center">
-  ![Profile Views](https://visitcount.itsvg.in/api?id=ashishrawat008575&icon=0&color=0)
-</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
